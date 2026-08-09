@@ -41,6 +41,7 @@ The analysis examines:
 - Total charges
 - Customer demographics
 
+
 ## Key Findings
 
 - Overall customer churn is approximately 27%.
