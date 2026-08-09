@@ -41,7 +41,7 @@ The analysis examines:
 - Total charges
 - Customer demographics
 
-##Dashboard
+## Dashboard
 ![Telco Customer Churn Dashboard](Screenshot 2026-08-09 230754.png)
 ## Key Findings
 
