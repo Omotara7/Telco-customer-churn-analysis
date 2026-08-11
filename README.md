@@ -41,6 +41,9 @@ The analysis examines:
 - Total charges
 - Customer demographics
 
+## Dasboard
+![Telco Customer Churn Dashboard](dashboard.png)
+
 ## Key Findings
 
 - Overall customer churn is approximately 27%.
