@@ -42,7 +42,7 @@ The analysis examines:
 - Customer demographics
 
 ## Dasboard
-![Telco Customer Churn Dashboard](dashboard.png)
+![Telco Customer Churn Dashboard](Dashboard.png)
 
 ## Key Findings
 
